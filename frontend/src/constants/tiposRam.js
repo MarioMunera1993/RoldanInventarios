@@ -1,0 +1,1 @@
+export const TIPOS_RAM = ["DDR3 L", "DDR3", "DDR4", "DDR5"];

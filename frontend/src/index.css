@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/*si se quiere cambiar algo de los inputs de la app solo lo hago desde aca*/
+@layer components {
+  .input {
+    @apply w-full border border-gray-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent;
+  }
+}

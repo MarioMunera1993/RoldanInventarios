@@ -1,0 +1,1 @@
+export const SEDES = ["LIBERTAD", "AMISTAD", "ORIENTE", "LIDER"];

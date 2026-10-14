@@ -1,0 +1,7 @@
+export const TIPOS_EQUIPO = {
+    ESCRITORIO: "ESCRITORIO",
+    PORTATIL: "PORTÁTIL",
+    ALL_IN_ONE: "ALL IN ONE",
+    SERVIDOR: "SERVIDOR",
+    MINI_PC: "MINI PC",
+}

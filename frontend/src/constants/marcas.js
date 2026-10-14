@@ -1,0 +1,1 @@
+export const MARCAS = ["HP", "ASUS", "DELL", "LENOVO", "ACER"];

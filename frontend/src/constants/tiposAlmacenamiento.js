@@ -1,0 +1,1 @@
+export const TIPOS_ALMACENAMIENTO = ["HDD", "SSD", "NVMe", "M.2"];
